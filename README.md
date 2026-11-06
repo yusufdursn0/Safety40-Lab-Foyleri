@@ -15,5 +15,6 @@ Her hafta klasöründe doldurulmuş föyün **PDF**'i ve o haftanın konusuna ö
 | 3 | Threat & Risk + Risk Matrix | Risk Register | [PDF](hafta-3/Lab3-Threat-Risk-Matrix.pdf) | [SWOT](hafta-3/SWOT.md) |
 | 4 | Secure Remote Access | Secure Architecture | [PDF](hafta-4/Lab4-Secure-Remote-Access.pdf) | [SWOT](hafta-4/SWOT.md) |
 | 5 | SBOM / CVE / Patch | Vulnerability Decision | [PDF](hafta-5/Lab5-SBOM-CVE-Patch.pdf) | [SWOT](hafta-5/SWOT.md) |
+| 6 | CRA Incident Simulation | Incident Workflow | [PDF](hafta-6/Lab6-CRA-Incident-Simulation.pdf) | [SWOT](hafta-6/SWOT.md) |
 
 > Föylerdeki ağ ve zafiyet bilgileri (4G uzak bakım modülü, admin/admin, port 80 HMI, Wi-Fi, USB) eğitim senaryosu varsayımıdır; firmanın gerçek ürününü tanımlamaz. Bu föyler bir eğitim çıktısıdır; resmî denetim, uygunluk değerlendirmesi veya belgelendirme değildir ve CE/mevzuat uygunluğu garantisi vermez.
